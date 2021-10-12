@@ -1,5 +1,5 @@
 ### Hi, I'm Leonardo Feriato 👋
-## UX/UI Designer
+## Computer Engineer and UX/UI Designer
 
 <!--
 **LeonardoFeriato/LeonardoFeriato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
