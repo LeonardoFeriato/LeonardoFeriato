@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo Feriato Moreira 👋
 
-## Full-satck Developer and Computer Engineer
+## Full-stack Developer and Computer Engineer
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LeonardoFeriato&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
