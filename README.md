@@ -23,7 +23,7 @@ As well as increase the performance with Cloudflare and get metrics with Google 
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=git,postman,windows,vscode,npm)](https://github.com/LeonardoFeriato)
+[![Development Tools](https://skillicons.dev/icons?i=git,postman,windows,vscode,npm,bun)](https://github.com/LeonardoFeriato)
 
 ### Back-end
 
