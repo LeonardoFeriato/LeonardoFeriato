@@ -27,7 +27,7 @@ As well as increase the performance with Cloudflare and get metrics with Google 
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=wordpress,nodejs,java,maven,php,typescript)](https://github.com/LeonardoFeriato)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=wordpress,nodejs,java,php,typescript)](https://github.com/LeonardoFeriato)
 
 ### Front-end
 
