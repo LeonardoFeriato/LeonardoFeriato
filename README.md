@@ -31,7 +31,7 @@ As well as increase the performance with Cloudflare and get metrics with Google 
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,jquery,bootstrap,sass)](https://github.com/LeonardoFeriato)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,jquery,bootstrap)](https://github.com/LeonardoFeriato)
 
 ### Database
 
