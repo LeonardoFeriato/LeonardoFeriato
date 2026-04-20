@@ -1,10 +1,6 @@
 ### Hi, I'm Leonardo Feriato Moreira 👋
 
-## Full-stack Developer and Computer Engineer
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LeonardoFeriato&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-</p>
+### Full-stack Developer and Computer Engineer
 
 ## 💬&nbsp;About Me
 
@@ -35,4 +31,4 @@ As well as increase the performance with Cloudflare and get metrics with Google 
 
 ### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://github.com/LeonardoFeriato)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase)](https://github.com/LeonardoFeriato)
